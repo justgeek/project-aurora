@@ -67,3 +67,8 @@ npm run test:unit
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## ToDo
+- Add Detailed Docs and Diagrams
+- Add Axios
+- Add Middleware

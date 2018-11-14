@@ -1,4 +1,5 @@
 # Project Aurora
+
 <p align="center">
   <img src='aurora.jpg'  />
 </p>
@@ -7,16 +8,16 @@
 
 ## Prequisties
 
--   install vue-cli globally
-    npm install -g @vue/cli
+- install vue-cli globally
+  npm install -g @vue/cli
 
--   install vue generate component globally
-    npm install -g vue-generate-component
+- install vue generate component globally
+  npm install -g vue-generate-component
 
--   It is preferred to use vscode (for workspace, user settings, format sharing), but of course you can use your prefrred IDE
+- It is preferred to use vscode (for workspace, user settings, format sharing), but of course you can use your prefrred IDE
 
-    P.S: You can skip global installtion by changing npm scripts to from {command} to ./node_modules/.bin/{command}
-    Example: vgc mycomponent -> ./node_modules/.bin/vgc mycomponent
+  P.S: You can skip global installtion by changing npm scripts to from {command} to ./node_modules/.bin/{command}
+  Example: vgc mycomponent -> ./node_modules/.bin/vgc mycomponent
 
 ## Getting Started
 
@@ -67,3 +68,13 @@ npm run test:unit
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## ToDo
+
+- Add Detailed Docs and Diagrams
+- Add Axios
+- Add Middleware
+
+# Issues
+
+- Resolve vscode auto complete for vuejs

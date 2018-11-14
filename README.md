@@ -70,7 +70,6 @@ npm run test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## ToDo
-<<<<<<< HEAD
 
 - Add Detailed Docs and Diagrams
 - Add Axios
@@ -79,8 +78,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # Issues
 
 - Resolve vscode auto complete for vuejs
-=======
-- Add Detailed Docs and Diagrams
-- Add Axios
-- Add Middleware
->>>>>>> 8cb086d7871e35965cd0e63df8ce856ec2362f06

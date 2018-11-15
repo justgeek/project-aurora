@@ -78,3 +78,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # Issues
 
 - Resolve vscode auto complete for vuejs
+- Resolve vscode smart link to component (cmd + click should link to component source code)
+- Resolve vscode enhancement to import vue files without using .vue extension

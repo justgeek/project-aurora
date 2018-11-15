@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve --open --watch",
     "build": "vue-cli-service build",
-    "create": "vgc  --script ts --spec ts",
+    "create-component": "cd ./src/views && vgc  --script ts --spec ts",
     "lint": "vue-cli-service lint",
     "test:e2e": "vue-cli-service test:e2e",
     "test:unit": "vue-cli-service test:unit"

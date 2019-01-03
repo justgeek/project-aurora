@@ -23,6 +23,8 @@
 
 ## How it works
 
+# Folder Structure
+
 ## Project setup
 
 ```
@@ -39,7 +41,7 @@ npm run serve
 
 ```
 npm run build
-```
+```npm str
 
 ### Run your tests
 
@@ -72,7 +74,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## ToDo
 
 - Add Detailed Docs and Diagrams
-- Add Axios
+- ~~Add Axios~~
+- Enhance Axios HttpService
 - Add Middleware
 
 # Issues

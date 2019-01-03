@@ -1,3 +1,4 @@
+import { Page1Service } from './page1.service';
 export default {
   name: 'page-1',
   components: {},
@@ -7,7 +8,14 @@ export default {
   },
   computed: {},
   mounted() {
-    console.log('hi');
+    const page1Service = new Page1Service();
+    page1Service.getUsers().then((response) => {
+      console.log(response.data)
+
+    }).catch((err) => {
+      console.log("ERR", err.response)
+    })
+
   },
   methods: {},
 };
